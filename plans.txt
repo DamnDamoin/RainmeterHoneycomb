@@ -1,0 +1,4 @@
+1. Write Program to automatically add folders & .ini file(s)
+2. Read names from @resources/Images/*.png
+3. Add more Symbols (comments/requests)
+4. Figure out position in grid, transparency, etc.
